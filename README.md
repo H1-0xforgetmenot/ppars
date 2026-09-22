@@ -27,7 +27,6 @@ them.
 - [Output format](#output-format)
 - [Performance](#performance)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
