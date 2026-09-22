@@ -378,7 +378,3 @@ If you are adding a new extraction tier or pattern, please include a
 minimal example in `testdata/` so the behavior is regression-tested.
 
 ---
-
-## License
-
-MIT. See [`LICENSE`](LICENSE) for details.
